@@ -33,7 +33,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
     <LocalDebuggerCommandArguments>"$(SolutionDir)OutOfBounds.uproject" -skipcompile</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
-    <LocalDebuggerCommandArgumentsHistory>"C:\Users\Tigam\Documents\Unreal Projects\OutOfBounds\OutOfBounds.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
+    <LocalDebuggerCommandArgumentsHistory>"C:\Users\Tigam\Documents\Unreal Projects\OutOfBounds\OutOfBounds.uproject" -skipcompile|"C:\Program Files\Epic Games\UE_5.8\OutOfBounds\OutOfBounds\OutOfBounds.uproject" -skipcompile|</LocalDebuggerCommandArgumentsHistory>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Win64_arm64_Development_Editor|x64'">
     <RemoteDebuggerCommandArguments>"$(SolutionDir)OutOfBounds.uproject" -skipcompile</RemoteDebuggerCommandArguments>

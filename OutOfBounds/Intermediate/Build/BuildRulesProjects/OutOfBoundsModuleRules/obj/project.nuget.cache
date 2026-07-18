@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eNfbzJT2JNg=",
+  "dgSpecHash": "vAxRHlI0pVU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tigam\\Documents\\Unreal Projects\\OutOfBounds\\Intermediate\\Build\\BuildRulesProjects\\OutOfBoundsModuleRules\\OutOfBoundsModuleRules.csproj",
+  "projectFilePath": "C:\\Program Files\\Epic Games\\UE_5.8\\OutOfBounds\\OutOfBounds\\Intermediate\\Build\\BuildRulesProjects\\OutOfBoundsModuleRules\\OutOfBoundsModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tigam\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\Tigam\\.nuget\\packages\\blake3\\2.2.1\\blake3.2.2.1.nupkg.sha512",

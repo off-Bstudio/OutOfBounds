@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D4E7F8C4-3204-3DB0-8612-DF72C95ABF6A}</ProjectGuid>
+    <ProjectGuid>{C25D77D8-7350-3E56-AD2A-0B445B8D61AE}</ProjectGuid>
     <RootNamespace>OutOfBounds</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
@@ -246,10 +246,13 @@
     </NMakeCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="..\..\.vsconfig"/>
+    <None Include="..\..\Automation_OutOfBounds.slnx"/>
     <None Include="..\..\Config\DefaultEditor.ini"/>
     <None Include="..\..\Config\DefaultEngine.ini"/>
     <None Include="..\..\Config\DefaultGame.ini"/>
     <None Include="..\..\Config\DefaultInput.ini"/>
+    <None Include="..\..\OutOfBounds.slnx"/>
     <None Include="..\..\OutOfBounds.uproject"/>
     <None Include="..\..\Source\OutOfBounds.Target.cs"/>
     <None Include="..\..\Source\OutOfBoundsEditor.Target.cs"/>

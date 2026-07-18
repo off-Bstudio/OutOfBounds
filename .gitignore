@@ -8,3 +8,5 @@ OutOfBounds/Intermediate/Build/XmlConfigCache.bin
 *.log
 *.bin
 *.bin
+*.log
+*.bin

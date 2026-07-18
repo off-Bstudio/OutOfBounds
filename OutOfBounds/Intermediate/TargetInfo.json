@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "OutOfBounds",
+			"Path": "..\\Source\\OutOfBounds.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "OutOfBoundsEditor",
+			"Path": "..\\Source\\OutOfBoundsEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

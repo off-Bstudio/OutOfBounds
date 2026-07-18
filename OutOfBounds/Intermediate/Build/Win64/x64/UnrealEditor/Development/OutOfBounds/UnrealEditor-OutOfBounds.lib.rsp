@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/experimental:deterministic
+/DEF
+/NAME:"UnrealEditor-OutOfBounds.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/OutOfBoundsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/OutOfBounds.cpp.obj"
+"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/PerModuleInline.gen.cpp.obj"
+/OUT:"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/UnrealEditor-OutOfBounds.lib"

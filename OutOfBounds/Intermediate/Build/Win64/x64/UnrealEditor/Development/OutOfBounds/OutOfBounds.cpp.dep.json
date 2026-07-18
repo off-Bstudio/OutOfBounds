@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\source\\outofbounds\\outofbounds.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\intermediate\\build\\win64\\x64\\outofboundseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\outofbounds\\definitions.outofbounds.h",
+            "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\source\\outofbounds\\outofbounds.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

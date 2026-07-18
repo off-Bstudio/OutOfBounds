@@ -1,0 +1,14 @@
+"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Source/OutOfBounds/OutOfBounds.cpp"
+@"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/OutOfBounds.Shared.rsp"
+/FI"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/OutOfBoundsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/FI"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/Definitions.OutOfBounds.h"
+/Yu"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/OutOfBoundsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h"
+/Fp"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/OutOfBoundsEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.pch"
+/Fo"C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/OutOfBounds.cpp.obj"
+/experimental:log "C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/OutOfBounds.cpp.sarif"
+/sourceDependencies "C:/Users/Tigam/Documents/Unreal Projects/OutOfBounds/Intermediate/Build/Win64/x64/UnrealEditor/Development/OutOfBounds/OutOfBounds.cpp.dep.json"
+/nologo
+/TP
+/GR-
+/std:c++20
+/wd5054

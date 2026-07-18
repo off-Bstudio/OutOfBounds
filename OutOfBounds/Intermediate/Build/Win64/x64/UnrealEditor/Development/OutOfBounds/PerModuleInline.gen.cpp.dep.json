@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\outofbounds\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\intermediate\\build\\win64\\x64\\outofboundseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\tigam\\documents\\unreal projects\\outofbounds\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\outofbounds\\definitions.outofbounds.h",
+            "c:\\program files\\epic games\\ue_5.8\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

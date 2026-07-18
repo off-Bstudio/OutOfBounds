@@ -6,3 +6,5 @@ OutOfBounds/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_3BBCD03140AB8
 /OutOfBounds/Saved/Logs
 OutOfBounds/Intermediate/Build/XmlConfigCache.bin
 *.log
+*.bin
+*.bin

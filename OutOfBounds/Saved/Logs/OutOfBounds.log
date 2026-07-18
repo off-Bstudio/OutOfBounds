@@ -2040,3 +2040,750 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.18-15.25.10:958][522]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.07.18-15.25.10:958][522]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 632.880371, Update Interval: 327.065643
 [2026.07.18-15.27.41:299][246]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.07.18-15.30.43:199][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 965.454590
+[2026.07.18-15.30.44:200][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-15.30.44:200][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 966.121643, Update Interval: 338.317810
+[2026.07.18-15.33.45:289][224]Cmd: DELETE
+[2026.07.18-15.33.45:289][224]Cmd: ACTOR DELETE
+[2026.07.18-15.33.45:306][224]LogEditorActor: Deleted Actor: Brush
+[2026.07.18-15.33.45:336][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.07.18-15.33.45:343][224]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2026.07.18-15.33.47:152][330]Cmd: DELETE
+[2026.07.18-15.33.47:153][330]Cmd: ACTOR DELETE
+[2026.07.18-15.33.47:156][330]LogEditorActor: Deleted Actor: Brush
+[2026.07.18-15.33.47:176][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.07.18-15.33.47:180][330]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2026.07.18-15.33.50:212][505]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' with subface index 0 in Game thread.
+[2026.07.18-15.33.50:212][505]LogSlate: Display: Took 0.004150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K) on Game thread.
+[2026.07.18-15.33.50:212][505]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface 0 in Game thread.
+[2026.07.18-15.33.50:212][505]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.07.18-15.33.54:014][505]LogSlate: Window 'Message' being destroyed
+[2026.07.18-15.33.54:020][505]Message dialog closed, result: Yes, title: Message, text: NewMap existe déjà. Souhaitez-vous le remplacer ?
+[2026.07.18-15.33.54:020][505]LogSlate: Window 'Enregistrer le niveau sous' being destroyed
+[2026.07.18-15.33.54:028][505]LogModuleManager: InternalLoadLibrary: 'HierarchicalLODUtilities' ('C:/Program Files/Epic Games/UE_5.8/Engine/Binaries/Win64/UnrealEditor-HierarchicalLODUtilities.dll')
+[2026.07.18-15.33.54:059][505]SourceControl: Le contrôle de révision est désactivé.
+[2026.07.18-15.33.54:192][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap] ([1] browsable assets)...
+[2026.07.18-15.33.54:192][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap]
+[2026.07.18-15.33.54:192][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../OutOfBounds/OutOfBounds/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.07.18-15.33.54:227][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.07.18-15.33.54:239][505]LogSavePackage: Moving output files for package: /Game/NewMap
+[2026.07.18-15.33.54:239][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/NewMapB1500C4C40756B8A5CA3D79BB7AA9B41.tmp' to '../../../OutOfBounds/OutOfBounds/Content/NewMap.umap'
+[2026.07.18-15.33.54:255][505]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.07.18-15.33.54:301][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.07.18-15.33.54:323][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.07.18-15.33.54:344][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.33.54:345][505]LogFileHelpers: Saving Package: /Game/NewMap_HLOD0_Instancing
+[2026.07.18-15.33.54:347][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/NewMap_HLOD0_Instancing] ([1] browsable assets)...
+[2026.07.18-15.33.54:347][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/NewMap_HLOD0_Instancing]
+[2026.07.18-15.33.54:347][505]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_HLOD0_Instancing" FILE="../../../OutOfBounds/OutOfBounds/Content/NewMap_HLOD0_Instancing.uasset" SILENT=true
+[2026.07.18-15.33.54:353][505]LogSavePackage: Moving output files for package: /Game/NewMap_HLOD0_Instancing
+[2026.07.18-15.33.54:354][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/NewMap_HLOD0_Instancing44002AE94BE8CC69355C3EBC2E34FCCF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/NewMap_HLOD0_Instancing.uasset'
+[2026.07.18-15.33.54:354][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2026.07.18-15.33.54:359][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH
+[2026.07.18-15.33.54:359][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/QO5TQORWCXORVK1051S8GHF73B02584458256FFC786B98D87C23D1.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/J7/QO5TQORWCXORVK1051S8GH.uasset'
+[2026.07.18-15.33.54:360][505]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2026.07.18-15.33.54:365][505]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9
+[2026.07.18-15.33.54:366][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/3FHCA0FW5IIFSQ2O54UZA9F935792F431B8233D977E2BB641734A9.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalObjects__/NewMap/1/RU/3FHCA0FW5IIFSQ2O54UZA9.uasset'
+[2026.07.18-15.33.54:366][505]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2026.07.18-15.33.54:372][505]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N
+[2026.07.18-15.33.54:372][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/99MZXH85XVTY7NU0J1OJ8N5D9D54FA456D73C85E09AC99FDA4DDFC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalObjects__/NewMap/7/AM/99MZXH85XVTY7NU0J1OJ8N.uasset'
+[2026.07.18-15.33.54:373][505]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2026.07.18-15.33.54:378][505]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI
+[2026.07.18-15.33.54:378][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/DIR8ZHVIQ96U3XBY7PSRNI437BD5DD42AE16A75FA494A82A94F9A6.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalObjects__/NewMap/9/EW/DIR8ZHVIQ96U3XBY7PSRNI.uasset'
+[2026.07.18-15.33.54:379][505]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+[2026.07.18-15.33.54:384][505]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G
+[2026.07.18-15.33.54:385][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/WYRPDUCDC4MIWMIRBPXU8GB116CAD64B04EE629C4C60BF1C528A30.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalObjects__/NewMap/E/VH/WYRPDUCDC4MIWMIRBPXU8G.uasset'
+[2026.07.18-15.33.54:386][505]LogFileHelpers: Saving Package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2026.07.18-15.33.54:391][505]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ
+[2026.07.18-15.33.54:391][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/PV6HCV4P0GX9P77B63TXTQ0DE9E8074FAB153A79DC11A574545825.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalObjects__/NewMap/9/20/PV6HCV4P0GX9P77B63TXTQ.uasset'
+[2026.07.18-15.33.54:392][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2026.07.18-15.33.54:441][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1
+[2026.07.18-15.33.54:441][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/K9ZUEA69K5KJSH5045MJR165578E0A4AF5F3474380B0B04BE40D42.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/MY/K9ZUEA69K5KJSH5045MJR1.uasset'
+[2026.07.18-15.33.54:442][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2026.07.18-15.33.54:448][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM
+[2026.07.18-15.33.54:448][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/33JI6228IHMKP046YQI3NM3C33EC9E4A6D512997E2F28D953612FA.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/MW/33JI6228IHMKP046YQI3NM.uasset'
+[2026.07.18-15.33.54:449][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2026.07.18-15.33.54:454][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ
+[2026.07.18-15.33.54:454][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/SX9JKDV4UA15T0E1TTFAVZF69900C94E04DBDC3E4980A9EC476CCC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/LJ/SX9JKDV4UA15T0E1TTFAVZ.uasset'
+[2026.07.18-15.33.54:455][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2026.07.18-15.33.54:462][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V
+[2026.07.18-15.33.54:462][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/UWT2EIZPYQICCJ0JNTZ85V1936962D473EDE42E66C31AEF3BD209F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/RB/UWT2EIZPYQICCJ0JNTZ85V.uasset'
+[2026.07.18-15.33.54:463][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2026.07.18-15.33.54:469][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y
+[2026.07.18-15.33.54:469][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ZZZUE6B734TVUOS09XOW8YFE10DE5342A1B24C1B13E7ABDC428D8C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/BZ/ZZZUE6B734TVUOS09XOW8Y.uasset'
+[2026.07.18-15.33.54:470][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2026.07.18-15.33.54:475][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04
+[2026.07.18-15.33.54:475][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/QNW4NKCF3JB30PDQLYNK04F607A8E24EAF85B8B21AB899304D6ECF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/Q8/QNW4NKCF3JB30PDQLYNK04.uasset'
+[2026.07.18-15.33.54:476][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2026.07.18-15.33.54:481][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0
+[2026.07.18-15.33.54:481][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/S0M3NFTEJWDWQXLH8WL3P079F26E424248ED507A6033BAD9A1EDDE.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/F8/S0M3NFTEJWDWQXLH8WL3P0.uasset'
+[2026.07.18-15.33.54:482][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2026.07.18-15.34.02:141][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J
+[2026.07.18-15.34.02:141][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/H67VGU7BHNHPWWQEMQJ41J40608D2B40C1DA9D49B500A3E079F6AE.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/KB/H67VGU7BHNHPWWQEMQJ41J.uasset'
+[2026.07.18-15.34.02:142][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2026.07.18-15.34.02:147][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L
+[2026.07.18-15.34.02:147][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/D90LOZ6OX06T5XEND5R79L04E6C2304416F4AF020039AAB324E976.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/7Z/D90LOZ6OX06T5XEND5R79L.uasset'
+[2026.07.18-15.34.02:148][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2026.07.18-15.34.02:160][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT
+[2026.07.18-15.34.02:160][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/STFWH78SWHO1BT3JB2S9GT0F8399904C97E0845464A1ACB0BDA527.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/BV/STFWH78SWHO1BT3JB2S9GT.uasset'
+[2026.07.18-15.34.02:161][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2026.07.18-15.34.02:174][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V
+[2026.07.18-15.34.02:174][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/N5WZ7N63Q2DBG05ZT1Y94VCB0BE40A478663DB7A94418F229C2E82.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/ZU/N5WZ7N63Q2DBG05ZT1Y94V.uasset'
+[2026.07.18-15.34.02:175][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2026.07.18-15.34.02:186][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8
+[2026.07.18-15.34.02:186][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/QCU8K2REN785K74C0JAHL8C0AB6AB54A33CD52E5FD9F8ACDA7C4A4.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/09/QCU8K2REN785K74C0JAHL8.uasset'
+[2026.07.18-15.34.02:188][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2026.07.18-15.34.02:200][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF
+[2026.07.18-15.34.02:200][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/V9CAJRQOOCARULA8KSKFKF3BFF3423491A0070F861F4833223ED9B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/PP/V9CAJRQOOCARULA8KSKFKF.uasset'
+[2026.07.18-15.34.02:201][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2026.07.18-15.34.02:213][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ
+[2026.07.18-15.34.02:213][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/PZ5XNZU157V0GDAJAXC2DQ9450879846D5B72E8539BBA64370D200.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/RD/PZ5XNZU157V0GDAJAXC2DQ.uasset'
+[2026.07.18-15.34.02:214][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2026.07.18-15.34.02:226][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5
+[2026.07.18-15.34.02:226][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/QBOG0EUDUJ3I7CKDLU6SM5021AA6B446B5C3C4C61320869D3226B8.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/HU/QBOG0EUDUJ3I7CKDLU6SM5.uasset'
+[2026.07.18-15.34.02:228][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2026.07.18-15.34.02:240][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R
+[2026.07.18-15.34.02:240][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/K5XHNT2TJPQ6HM9TN0HG8R9EBF3E7143C0EB0C60CEE0BF6C65DA3B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/DN/K5XHNT2TJPQ6HM9TN0HG8R.uasset'
+[2026.07.18-15.34.02:241][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2026.07.18-15.34.02:256][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM
+[2026.07.18-15.34.02:256][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/Y8EZ2AXLMEN39WTAPXB6VMFE799EF447BE556F783A4F8CED1AB239.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/BG/Y8EZ2AXLMEN39WTAPXB6VM.uasset'
+[2026.07.18-15.34.02:256][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2026.07.18-15.34.02:270][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV
+[2026.07.18-15.34.02:270][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/RPVI13LNVTY93V3EQ1Y4FV519D9C0D48A8F8F327DBF4A68653522B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/RS/RPVI13LNVTY93V3EQ1Y4FV.uasset'
+[2026.07.18-15.34.02:271][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2026.07.18-15.34.02:286][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI
+[2026.07.18-15.34.02:286][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/UDWQC9DWW7DL22CPJ4RVSI028BE5624F827ACB4FCF77B5F9F4EDCE.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/P6/UDWQC9DWW7DL22CPJ4RVSI.uasset'
+[2026.07.18-15.34.02:286][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2026.07.18-15.34.02:301][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2
+[2026.07.18-15.34.02:301][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/EE3LUXOWULAYGXN1IPS4S2D619DC4D4AF02BCF42CEBFBFD301B382.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/4M/EE3LUXOWULAYGXN1IPS4S2.uasset'
+[2026.07.18-15.34.02:301][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2026.07.18-15.34.02:315][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R
+[2026.07.18-15.34.02:315][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/Y3GF0HWTXA7DHH1FL3IF9RE2A88EA246B232C3722117975880CA98.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/HN/Y3GF0HWTXA7DHH1FL3IF9R.uasset'
+[2026.07.18-15.34.02:316][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2026.07.18-15.34.02:329][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0
+[2026.07.18-15.34.02:329][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/XX81YC0HUFD6L3IX7RWMS09CD6FDD2441D0397E369B38B98C63A66.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/1C/XX81YC0HUFD6L3IX7RWMS0.uasset'
+[2026.07.18-15.34.02:331][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2026.07.18-15.34.02:344][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ
+[2026.07.18-15.34.02:344][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/5E0J4DYSYB0DUPM0H3UFMJ0BE728724DAB349AD47503A2FE887580.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/6Q/5E0J4DYSYB0DUPM0H3UFMJ.uasset'
+[2026.07.18-15.34.02:346][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2026.07.18-15.34.02:359][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU
+[2026.07.18-15.34.02:359][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/I3YAKOIE9OZW8RGU76MLDU97B6BECE48BFCA33ACEEA3BB859008CF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/X4/I3YAKOIE9OZW8RGU76MLDU.uasset'
+[2026.07.18-15.34.02:360][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2026.07.18-15.34.02:376][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF
+[2026.07.18-15.34.02:376][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/8TXEZSVIN8XJXFAAPYJ9PF561C140C457973AE1782388AF46E87DD.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/M2/8TXEZSVIN8XJXFAAPYJ9PF.uasset'
+[2026.07.18-15.34.02:377][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2026.07.18-15.34.02:392][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79
+[2026.07.18-15.34.02:392][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/99H285CLZ96HCTKT3S7S796DB2A8F5407619017454109827DFE3FD.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/MZ/99H285CLZ96HCTKT3S7S79.uasset'
+[2026.07.18-15.34.02:393][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2026.07.18-15.34.02:408][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF
+[2026.07.18-15.34.02:408][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/J8JQXJ67F9KX47CCDA8ZMF706B72DC4873797072D77AB01576709D.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/YH/J8JQXJ67F9KX47CCDA8ZMF.uasset'
+[2026.07.18-15.34.02:409][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2026.07.18-15.34.02:424][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF
+[2026.07.18-15.34.02:425][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/7UWDO77CF7TNVQ9BB75XCF86D994F84A164CB812B006A657928205.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/OZ/7UWDO77CF7TNVQ9BB75XCF.uasset'
+[2026.07.18-15.34.02:426][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2026.07.18-15.34.02:441][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW
+[2026.07.18-15.34.02:441][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/TIHXLB5639NV4RM260YDTWA218F6E949832E0C7F6173BFA26C56C9.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/AQ/TIHXLB5639NV4RM260YDTW.uasset'
+[2026.07.18-15.34.02:442][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2026.07.18-15.34.02:454][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y
+[2026.07.18-15.34.02:454][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/GV76BBB2V0EFHV7ELK9A0YA3652556401E206B959974877147DE6C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/X7/GV76BBB2V0EFHV7ELK9A0Y.uasset'
+[2026.07.18-15.34.02:455][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2026.07.18-15.34.02:471][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90
+[2026.07.18-15.34.02:471][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/CHPLQ79FFGJWC3VACZJA9022B1031C407307CFA7F72894D2236E6C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/53/CHPLQ79FFGJWC3VACZJA90.uasset'
+[2026.07.18-15.34.02:472][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2026.07.18-15.34.02:487][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID
+[2026.07.18-15.34.02:487][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/39OTWHVDSI751PAH6731ID4DCC99EF4A3B5A9763E528A69D2158B8.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/BQ/39OTWHVDSI751PAH6731ID.uasset'
+[2026.07.18-15.34.02:488][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2026.07.18-15.34.02:504][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF
+[2026.07.18-15.34.02:504][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/3B5158OKASMIKGFDZC9KRF2C0257644D33FAB90856119A6744ECD0.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/SK/3B5158OKASMIKGFDZC9KRF.uasset'
+[2026.07.18-15.34.02:505][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2026.07.18-15.34.02:520][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP
+[2026.07.18-15.34.02:520][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/X4NPSX8ZUWI1DPH52YEUUP44FF84FE4332AE8664CBAFAA5CE5C4BC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/4X/X4NPSX8ZUWI1DPH52YEUUP.uasset'
+[2026.07.18-15.34.02:521][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2026.07.18-15.34.02:535][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC
+[2026.07.18-15.34.02:535][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/MRZ7RQN5KANFM03I7EKRCC1CBE82CD4EE31291F37A5D9FB0B54669.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/8V/MRZ7RQN5KANFM03I7EKRCC.uasset'
+[2026.07.18-15.34.02:536][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2026.07.18-15.34.02:553][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH
+[2026.07.18-15.34.02:553][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/XQN8LZWIDWMWIMOBUZOJDH052C66F74A8D1E00F5AC7ABA3C0E7AB9.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/ZT/XQN8LZWIDWMWIMOBUZOJDH.uasset'
+[2026.07.18-15.34.02:554][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2026.07.18-15.34.02:567][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD
+[2026.07.18-15.34.02:567][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ELJ3HI994B42IQIWQEZNGDEA55B0D64BEDEDA18E128FB87BD0264C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/T6/ELJ3HI994B42IQIWQEZNGD.uasset'
+[2026.07.18-15.34.02:568][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2026.07.18-15.34.02:582][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM
+[2026.07.18-15.34.02:582][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/JJD8SHJCMNFNMC34COATAM2E42AC6B44FA7C38B6F3428AD50C44CE.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/TG/JJD8SHJCMNFNMC34COATAM.uasset'
+[2026.07.18-15.34.02:583][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2026.07.18-15.34.02:598][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ
+[2026.07.18-15.34.02:598][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/HYGURXU7M62N8WAUIXLWPQ912E0192466A80E947C25B9544B49E7B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/Q7/HYGURXU7M62N8WAUIXLWPQ.uasset'
+[2026.07.18-15.34.02:599][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2026.07.18-15.34.02:614][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ
+[2026.07.18-15.34.02:614][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/FH4UWQ2MQA5KPUZVXS23LJ4CCE90654E3FE6EAC648FC877FC57EE3.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/OQ/FH4UWQ2MQA5KPUZVXS23LJ.uasset'
+[2026.07.18-15.34.02:614][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2026.07.18-15.34.02:630][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S
+[2026.07.18-15.34.02:630][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/PLU0RE738EMG7CF7VC8D9SD4F6122F460388B4EF4D02930C4985B3.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/DJ/PLU0RE738EMG7CF7VC8D9S.uasset'
+[2026.07.18-15.34.02:631][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2026.07.18-15.34.02:646][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL
+[2026.07.18-15.34.02:646][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/KXAGD7OP6IEQ3K8LWI86RL8168D4D94C9226C9DF3BA2AA642F8229.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/DX/KXAGD7OP6IEQ3K8LWI86RL.uasset'
+[2026.07.18-15.34.02:647][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2026.07.18-15.34.02:661][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9
+[2026.07.18-15.34.02:661][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/9034HM4Y3YU11DE4XNPRA933E08CDE4FBF0422B00A79A32258E930.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/Q5/9034HM4Y3YU11DE4XNPRA9.uasset'
+[2026.07.18-15.34.02:662][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2026.07.18-15.34.02:676][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4
+[2026.07.18-15.34.02:676][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/OHRQN7RF5THM8Z6O6262I40A256DD64E4AD6AC8E1B97B3756B8713.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/R1/OHRQN7RF5THM8Z6O6262I4.uasset'
+[2026.07.18-15.34.02:676][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2026.07.18-15.34.02:692][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA
+[2026.07.18-15.34.02:692][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/TAVO56E9B1HVH1F45RLBIA2EB344974D8317657FDBEFAF2628D4B2.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/GW/TAVO56E9B1HVH1F45RLBIA.uasset'
+[2026.07.18-15.34.02:693][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2026.07.18-15.34.02:708][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9
+[2026.07.18-15.34.02:708][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/4ND4ZK6J06I5L4DPSTPYW98B3453EB4FED8DD2A988BBB33E2D7E7A.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/8U/4ND4ZK6J06I5L4DPSTPYW9.uasset'
+[2026.07.18-15.34.02:709][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2026.07.18-15.34.02:723][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3
+[2026.07.18-15.34.02:723][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/VXH4MI02ODW8DKNLA2MOK38AD3B388418894BCFD47E399485C4A90.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/8Q/VXH4MI02ODW8DKNLA2MOK3.uasset'
+[2026.07.18-15.34.02:724][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2026.07.18-15.34.02:738][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH
+[2026.07.18-15.34.02:738][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/0XXSVY1Y0D2HIHA43BVMPH0B9E35C04412511267176C9E93259F32.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/TV/0XXSVY1Y0D2HIHA43BVMPH.uasset'
+[2026.07.18-15.34.02:740][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2026.07.18-15.34.02:756][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S
+[2026.07.18-15.34.02:756][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/JV2GOVBPB8GZ9MQUICHC9SBF5F17934FC2A7E19BBE4EAF4C636F41.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/BH/JV2GOVBPB8GZ9MQUICHC9S.uasset'
+[2026.07.18-15.34.02:757][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2026.07.18-15.34.02:771][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V
+[2026.07.18-15.34.02:771][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/CK3DVSRDA9WTQU5TC2XO2V4FBC407E416B17FC91C0D5BD4CD5DC4E.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/3T/CK3DVSRDA9WTQU5TC2XO2V.uasset'
+[2026.07.18-15.34.02:772][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2026.07.18-15.34.02:786][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2
+[2026.07.18-15.34.02:786][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/NURB0U7U9ZV4H4LX7FT8T21B51BD0844C098CF9735FDB2D7F0D2D5.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/AA/NURB0U7U9ZV4H4LX7FT8T2.uasset'
+[2026.07.18-15.34.02:787][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2026.07.18-15.34.02:800][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI
+[2026.07.18-15.34.02:800][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/B3NPG0KFON6BVW5ECZJSUIAE16EFB847F97F5FEA61AEBF63A01162.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/PW/B3NPG0KFON6BVW5ECZJSUI.uasset'
+[2026.07.18-15.34.02:801][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2026.07.18-15.34.02:815][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9
+[2026.07.18-15.34.02:815][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/BULBFMUS7ADZJMH54QGDK9E2C75EB9418F7757E20820A0B1C23C95.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/S7/BULBFMUS7ADZJMH54QGDK9.uasset'
+[2026.07.18-15.34.02:816][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2026.07.18-15.34.02:830][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2
+[2026.07.18-15.34.02:830][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/1HONC7HVU91I909A4N80W2DCCC1FAB4B5910C3B0C0CA89B18A9CEF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/UX/1HONC7HVU91I909A4N80W2.uasset'
+[2026.07.18-15.34.02:831][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2026.07.18-15.34.02:844][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP
+[2026.07.18-15.34.02:844][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/6S23OQXPMF10HYXLB9OEIP741E02A7426AE7ADB0FF9AB6136DD4FB.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/R1/6S23OQXPMF10HYXLB9OEIP.uasset'
+[2026.07.18-15.34.02:844][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2026.07.18-15.34.02:858][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT
+[2026.07.18-15.34.02:859][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/L8FAOYPHJNQSTCW3XMMSJT635293344050F5BCF98925815D740F40.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/Y6/L8FAOYPHJNQSTCW3XMMSJT.uasset'
+[2026.07.18-15.34.02:859][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2026.07.18-15.34.02:875][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8
+[2026.07.18-15.34.02:875][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/29WASR1BMNC6IXHW8I5KZ883F6734645324C25A914FC8DA7F3A95C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/GP/29WASR1BMNC6IXHW8I5KZ8.uasset'
+[2026.07.18-15.34.02:876][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2026.07.18-15.34.02:890][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ
+[2026.07.18-15.34.02:890][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/T187Z8E2C6CPJLXCH06KRJF033617A4E2C482535032B8DC6B4513C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/6Q/T187Z8E2C6CPJLXCH06KRJ.uasset'
+[2026.07.18-15.34.02:891][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2026.07.18-15.34.02:906][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K
+[2026.07.18-15.34.02:906][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/85792LT2Y93I704I1JYP1K4CD3328E42037FCE676D7EA33A0C7435.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/YN/85792LT2Y93I704I1JYP1K.uasset'
+[2026.07.18-15.34.02:906][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2026.07.18-15.34.02:921][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q
+[2026.07.18-15.34.02:921][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/Y23P0KHN1XII71UX7D1H8Q42F328CB4430E3FA334165AB96C353FA.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/OT/Y23P0KHN1XII71UX7D1H8Q.uasset'
+[2026.07.18-15.34.02:922][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2026.07.18-15.34.02:935][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC
+[2026.07.18-15.34.02:935][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/E7UFHHQZ7B8TLAL6Y74JRCDB556AFD4330E1DE47D9F790B398DF61.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/0E/E7UFHHQZ7B8TLAL6Y74JRC.uasset'
+[2026.07.18-15.34.02:936][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2026.07.18-15.34.02:951][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR
+[2026.07.18-15.34.02:951][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/FL16ITLR22643N9B35THARFDD3FA07480C3279BA23C4A719EF1FCE.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/QY/FL16ITLR22643N9B35THAR.uasset'
+[2026.07.18-15.34.02:952][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2026.07.18-15.34.02:966][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM
+[2026.07.18-15.34.02:966][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/90QVEWVNXY6N07CS9SHQPM6907BA7B42E218C3D23E269F54C2C6EC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/AW/90QVEWVNXY6N07CS9SHQPM.uasset'
+[2026.07.18-15.34.02:966][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2026.07.18-15.34.02:980][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW
+[2026.07.18-15.34.02:980][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/YMDE4WERKLNXIT8TVTH5OW8548356C400A5160A07BDA872055E8C6.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/D8/YMDE4WERKLNXIT8TVTH5OW.uasset'
+[2026.07.18-15.34.02:981][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2026.07.18-15.34.02:994][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW
+[2026.07.18-15.34.02:994][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/NERX0MWYRICL228ZB8J0QW18057BF74488F1256175D9A7D5C372CB.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/WK/NERX0MWYRICL228ZB8J0QW.uasset'
+[2026.07.18-15.34.02:994][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2026.07.18-15.34.03:006][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736
+[2026.07.18-15.34.03:006][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/VZU403KFJ6UJQ2M3VY67360F47E1054192F7ADDD17D1AC462F7780.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/6N/VZU403KFJ6UJQ2M3VY6736.uasset'
+[2026.07.18-15.34.03:008][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2026.07.18-15.34.03:022][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV
+[2026.07.18-15.34.03:023][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/JANFZ62JMG0U1Z3UNCQVKVAEDB5EDB4EED5875150A5087ABDE005A.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/DX/JANFZ62JMG0U1Z3UNCQVKV.uasset'
+[2026.07.18-15.34.03:023][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2026.07.18-15.34.03:036][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM
+[2026.07.18-15.34.03:036][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/SPYD0PSGU4M3NK7DI5RDRM4A126234417D2ED9410DA9BFC71C77C7.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/36/SPYD0PSGU4M3NK7DI5RDRM.uasset'
+[2026.07.18-15.34.03:038][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2026.07.18-15.34.03:051][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY
+[2026.07.18-15.34.03:051][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/M58JIDBQC2JEOWYFQ17JSYDB95A0454B5F70476D4CEEAF6F9913CD.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/H2/M58JIDBQC2JEOWYFQ17JSY.uasset'
+[2026.07.18-15.34.03:051][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2026.07.18-15.34.03:064][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE
+[2026.07.18-15.34.03:064][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/4G06FUR85LXRX1UCMOAFBEFB4307BC490F7770C85A1FA84F048847.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/ED/4G06FUR85LXRX1UCMOAFBE.uasset'
+[2026.07.18-15.34.03:065][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2026.07.18-15.34.03:079][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E
+[2026.07.18-15.34.03:079][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/4NBZKC5PVQODH9SVSYPY1E5598328F442639F00C1D5E98D179BD6A.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/FF/4NBZKC5PVQODH9SVSYPY1E.uasset'
+[2026.07.18-15.34.03:080][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2026.07.18-15.34.03:094][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA
+[2026.07.18-15.34.03:094][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/APFM7ONOEVP1TBHZZ5VTDA1A4BBF174B2FDA1A5A64AABD978FB665.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/KQ/APFM7ONOEVP1TBHZZ5VTDA.uasset'
+[2026.07.18-15.34.03:094][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2026.07.18-15.34.03:109][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6
+[2026.07.18-15.34.03:109][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/UYA7A5HTQTJSRWJ4MK2WT6AA2093254621CCABE334468BC72119FA.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/2Y/UYA7A5HTQTJSRWJ4MK2WT6.uasset'
+[2026.07.18-15.34.03:110][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+[2026.07.18-15.34.03:119][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q
+[2026.07.18-15.34.03:119][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/NYVVLNPBTKRYOWG6SJON5QDCEE330744C2185995A448BE53B9D4A2.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/YL/NYVVLNPBTKRYOWG6SJON5Q.uasset'
+[2026.07.18-15.34.03:120][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+[2026.07.18-15.34.03:128][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC
+[2026.07.18-15.34.03:128][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/CYNP3142GDJBY11M9RMRBC85ACACED4ACE2BECACEABCA4976247A9.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/15/CYNP3142GDJBY11M9RMRBC.uasset'
+[2026.07.18-15.34.03:129][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+[2026.07.18-15.34.03:140][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG
+[2026.07.18-15.34.03:140][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/QGHAKQ11SESEDFOLUDKLRG418B0094478A3F290D59A6A3B5239F63.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/NM/QGHAKQ11SESEDFOLUDKLRG.uasset'
+[2026.07.18-15.34.03:142][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+[2026.07.18-15.34.03:153][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G
+[2026.07.18-15.34.03:153][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/2K800X1I75LAHZV8NALO1G2DAD018746D4247F8BF772BB7BD7F7AC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/VL/2K800X1I75LAHZV8NALO1G.uasset'
+[2026.07.18-15.34.03:153][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+[2026.07.18-15.34.03:162][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY
+[2026.07.18-15.34.03:162][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/CKH5RYZ0ZR9KTVY5K32RCYCBB8237B4E76FBCE17F45D93FD3EF07F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/C5/CKH5RYZ0ZR9KTVY5K32RCY.uasset'
+[2026.07.18-15.34.03:163][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+[2026.07.18-15.34.03:172][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90
+[2026.07.18-15.34.03:172][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/R0G3BN5XGD6WGH52J72Q90C0344A3B4DAFFE2CE3DE4F9B8259064F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/MY/R0G3BN5XGD6WGH52J72Q90.uasset'
+[2026.07.18-15.34.03:173][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+[2026.07.18-15.34.03:182][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7
+[2026.07.18-15.34.03:182][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/T6K63GS54OD48GIP4AVZO7220F00484B30ADE1DF11508305275575.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/M5/T6K63GS54OD48GIP4AVZO7.uasset'
+[2026.07.18-15.34.03:182][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+[2026.07.18-15.34.03:191][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX
+[2026.07.18-15.34.03:191][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/70D8PQ7OROATLX8T345MDX29389EFE471EB436ED9F8AAE41E95B8B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/XJ/70D8PQ7OROATLX8T345MDX.uasset'
+[2026.07.18-15.34.03:192][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+[2026.07.18-15.34.03:202][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM
+[2026.07.18-15.34.03:202][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/U6BUG1QRAYYVDV4PDSDUMM675A5DF544C2EE83652EA5985A595C14.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/WJ/U6BUG1QRAYYVDV4PDSDUMM.uasset'
+[2026.07.18-15.34.03:203][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+[2026.07.18-15.34.03:212][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I
+[2026.07.18-15.34.03:212][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/K9VG19F1GEWZ7KOSERPA6IAE2E4A4D409E611978A90DA7D5B7A060.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/1S/K9VG19F1GEWZ7KOSERPA6I.uasset'
+[2026.07.18-15.34.03:213][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+[2026.07.18-15.34.03:222][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH
+[2026.07.18-15.34.03:223][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/BIGXLLSVFWFDN8GVLXTIJH49BD7EF242CA9CCD4EA43E8650AF60C7.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/VP/BIGXLLSVFWFDN8GVLXTIJH.uasset'
+[2026.07.18-15.34.03:223][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+[2026.07.18-15.34.03:232][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH
+[2026.07.18-15.34.03:233][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/T3SRO2C63VCND6PXTEV1CHA51B457740EFB095FCB1DC96AA0D4167.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/MY/T3SRO2C63VCND6PXTEV1CH.uasset'
+[2026.07.18-15.34.03:234][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+[2026.07.18-15.34.03:243][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK
+[2026.07.18-15.34.03:243][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/BOQSPAK8DZHLQ92PQS2LAK114C8F4F4724834609547BB7FF664398.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/OD/BOQSPAK8DZHLQ92PQS2LAK.uasset'
+[2026.07.18-15.34.03:244][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+[2026.07.18-15.34.03:254][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT
+[2026.07.18-15.34.03:254][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/I1YAF3YM63PH3IRC6INAMTB1A517ED4A56773C0EBA16BE61A6F3AB.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/WD/I1YAF3YM63PH3IRC6INAMT.uasset'
+[2026.07.18-15.34.03:255][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+[2026.07.18-15.34.03:263][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8
+[2026.07.18-15.34.03:263][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/TLK74XQSIYIZ39BEJZZGS8E30FB148441916810B55C8A70FA2BCCB.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/72/TLK74XQSIYIZ39BEJZZGS8.uasset'
+[2026.07.18-15.34.03:264][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+[2026.07.18-15.34.03:273][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ
+[2026.07.18-15.34.03:273][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/JK1IL916YYFEUWC238D8BQB46811F24075AD2A94FF2A9C20D9752B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/0U/JK1IL916YYFEUWC238D8BQ.uasset'
+[2026.07.18-15.34.03:274][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+[2026.07.18-15.34.03:284][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG
+[2026.07.18-15.34.03:284][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/WEBCPTS9FFUMD5IBGOM3UGA095051E4DFE13229D91CBA2982A93D8.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/WU/WEBCPTS9FFUMD5IBGOM3UG.uasset'
+[2026.07.18-15.34.03:285][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+[2026.07.18-15.34.03:293][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD
+[2026.07.18-15.34.03:293][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/VCTEVXRXLNOW5ZJ8J61MAD3C0755B647CCD9F19A003BBBFE37E664.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/9H/VCTEVXRXLNOW5ZJ8J61MAD.uasset'
+[2026.07.18-15.34.03:294][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+[2026.07.18-15.34.03:304][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW
+[2026.07.18-15.34.03:304][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/A1G10A9L4Y0YOIY6Y8GZIWE78AF30749938CC89F8004A5C0C8CC51.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/86/A1G10A9L4Y0YOIY6Y8GZIW.uasset'
+[2026.07.18-15.34.03:305][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+[2026.07.18-15.34.03:314][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK
+[2026.07.18-15.34.03:314][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ZANREFWHM69H8EXQ1GE2WK91AFFD4F4F96C6B8F66BBE9158D1D3AF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/AE/ZANREFWHM69H8EXQ1GE2WK.uasset'
+[2026.07.18-15.34.03:315][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+[2026.07.18-15.34.03:323][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN
+[2026.07.18-15.34.03:323][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/XDAM7DWXRXOLL0SMQT10VNE57FE000449C61B3DD2A4F9D44F91872.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/TU/XDAM7DWXRXOLL0SMQT10VN.uasset'
+[2026.07.18-15.34.03:324][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+[2026.07.18-15.34.03:332][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X
+[2026.07.18-15.34.03:332][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/5S8ZIUHF416MXIWGA05B8XA58C55894AEF9FEFB59AC98EC87390EF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/0/E4/5S8ZIUHF416MXIWGA05B8X.uasset'
+[2026.07.18-15.34.03:333][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+[2026.07.18-15.34.03:343][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8
+[2026.07.18-15.34.03:343][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/JAM3O7SXZW7J01CAEI8GN80FA6301445D10D3F4E16F39D631F5246.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/40/JAM3O7SXZW7J01CAEI8GN8.uasset'
+[2026.07.18-15.34.03:345][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+[2026.07.18-15.34.03:355][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D
+[2026.07.18-15.34.03:355][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/LUBSUPMBCORQY4BX4SUI8D14AF797F44ECF69ED86DF5B222D8C1AD.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/E5/LUBSUPMBCORQY4BX4SUI8D.uasset'
+[2026.07.18-15.34.03:356][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+[2026.07.18-15.34.03:365][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J
+[2026.07.18-15.34.03:365][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/YUH16E8Q3OFF2UFEOECX6J767FF1CD4C405828003CCC95D89DE07D.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/LV/YUH16E8Q3OFF2UFEOECX6J.uasset'
+[2026.07.18-15.34.03:366][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+[2026.07.18-15.34.03:375][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z
+[2026.07.18-15.34.03:375][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/BQ4QD8DM1FV5621690L48ZE43F45404835B5528F3EE18D45216CE4.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/56/BQ4QD8DM1FV5621690L48Z.uasset'
+[2026.07.18-15.34.03:376][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+[2026.07.18-15.34.03:385][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5
+[2026.07.18-15.34.03:385][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/E3N9C35NWL586INQHB9VL540ECAFC74CAAB0F3875E24BD22B2B9B8.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/ZA/E3N9C35NWL586INQHB9VL5.uasset'
+[2026.07.18-15.34.03:386][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+[2026.07.18-15.34.03:395][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D
+[2026.07.18-15.34.03:395][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/H3EUOGV4ND1YS97V1OH50DD90BE1D24540E7205A6B8EB42C3B85BF.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/TK/H3EUOGV4ND1YS97V1OH50D.uasset'
+[2026.07.18-15.34.03:396][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+[2026.07.18-15.34.03:405][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R
+[2026.07.18-15.34.03:405][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/LBYD52OUWDVKRW2LR5N40RB376AB364595378C6AA403A4C3B0D91F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/HD/LBYD52OUWDVKRW2LR5N40R.uasset'
+[2026.07.18-15.34.03:406][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+[2026.07.18-15.34.03:415][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1
+[2026.07.18-15.34.03:415][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/91MV17CEV5O0TI24BDEBY11BEE90D243F73EDF24108CA1C6DCE0A1.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/TQ/91MV17CEV5O0TI24BDEBY1.uasset'
+[2026.07.18-15.34.03:416][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+[2026.07.18-15.34.03:424][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V
+[2026.07.18-15.34.03:424][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/AYG5JX9GFZ46UZ4D89AS6V59CF71B04CC2A6B0979D759360880CAC.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/VN/AYG5JX9GFZ46UZ4D89AS6V.uasset'
+[2026.07.18-15.34.03:425][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+[2026.07.18-15.34.03:433][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR
+[2026.07.18-15.34.03:433][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/OL1EVUAEZLBC9MZGWLQTGR12E2BA694B1A869B34135FB5B92D5C41.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/AM/OL1EVUAEZLBC9MZGWLQTGR.uasset'
+[2026.07.18-15.34.03:434][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+[2026.07.18-15.34.03:443][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM
+[2026.07.18-15.34.03:443][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/7QOFK6FYQLTOX424QPFWQM5C0A99884E5A95E36B2298AB3CC15FD0.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/C/N4/7QOFK6FYQLTOX424QPFWQM.uasset'
+[2026.07.18-15.34.03:443][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+[2026.07.18-15.34.03:453][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2
+[2026.07.18-15.34.03:453][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/KF97WTUCVEEXW34TJN9TX25CA939A74EF91A3986CC1FA7CF943D57.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/OV/KF97WTUCVEEXW34TJN9TX2.uasset'
+[2026.07.18-15.34.03:454][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+[2026.07.18-15.34.03:462][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S
+[2026.07.18-15.34.03:462][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/O5GF0WUY9GTB5G1RJCRG7S171D5F634A7A1F355BF04EB497616ECD.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/2/XF/O5GF0WUY9GTB5G1RJCRG7S.uasset'
+[2026.07.18-15.34.03:463][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+[2026.07.18-15.34.03:472][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM
+[2026.07.18-15.34.03:472][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/OYJBGVX6BTQ1NB8STSMJKM46E136C348B317AD3B6A96B42D24D295.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/3I/OYJBGVX6BTQ1NB8STSMJKM.uasset'
+[2026.07.18-15.34.03:473][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+[2026.07.18-15.34.03:481][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3
+[2026.07.18-15.34.03:481][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/VQZZAJSMUJW42R85QD9NH374234E574BD1C50A12FD9E8571939F68.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/SO/VQZZAJSMUJW42R85QD9NH3.uasset'
+[2026.07.18-15.34.03:482][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+[2026.07.18-15.34.03:491][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP
+[2026.07.18-15.34.03:491][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/7PB37ID42LVSJXRXYR6ZEPC28157F64CBB8EE0B1DE94ADB991A709.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/HN/7PB37ID42LVSJXRXYR6ZEP.uasset'
+[2026.07.18-15.34.03:492][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+[2026.07.18-15.34.03:500][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28
+[2026.07.18-15.34.03:501][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/0Q31YSJCQQFF2U7PF0BX28502DC9B548120CD88F5BBF985375795A.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/YF/0Q31YSJCQQFF2U7PF0BX28.uasset'
+[2026.07.18-15.34.03:501][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+[2026.07.18-15.34.03:510][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW
+[2026.07.18-15.34.03:510][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/AZSCYV28PUELWHGWGMOUUW43610EF444513FB2AF1ECA8FF2808C0F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/UC/AZSCYV28PUELWHGWGMOUUW.uasset'
+[2026.07.18-15.34.03:511][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+[2026.07.18-15.34.03:520][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7
+[2026.07.18-15.34.03:520][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/IQVOSVV1CJEJSNAYJGESY776CFDC4E43EB9BCB60C320A93FF00C83.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/ND/IQVOSVV1CJEJSNAYJGESY7.uasset'
+[2026.07.18-15.34.03:520][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+[2026.07.18-15.34.03:529][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT
+[2026.07.18-15.34.03:529][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/46RJH0JG81KFL2EHXZEPMTD4E3B37A438BADAA3583B08448003430.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/Y7/46RJH0JG81KFL2EHXZEPMT.uasset'
+[2026.07.18-15.34.03:529][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+[2026.07.18-15.34.03:540][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN
+[2026.07.18-15.34.03:540][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/9BCOS91D9LWWYTKPAXD2LNEF6425374943696CB2F570958AC6AA42.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/7J/9BCOS91D9LWWYTKPAXD2LN.uasset'
+[2026.07.18-15.34.03:541][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+[2026.07.18-15.34.03:550][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX
+[2026.07.18-15.34.03:551][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/9BJPPHQETRDHJ6POTKQFCX027AD1E846A415ECA5FE53844AFD5F56.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/2E/9BJPPHQETRDHJ6POTKQFCX.uasset'
+[2026.07.18-15.34.03:551][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+[2026.07.18-15.34.03:561][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK
+[2026.07.18-15.34.03:561][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/G3E3331RDRVC7PRWZHULLK4F4CBFB94A9FA86B2D35648693CDD5E1.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/PX/G3E3331RDRVC7PRWZHULLK.uasset'
+[2026.07.18-15.34.03:561][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+[2026.07.18-15.34.03:571][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C
+[2026.07.18-15.34.03:571][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/YYX2A6F6SXT4UCL62ZSE1CDBBB63444B5E8A133203429E87ACBF5E.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/JB/YYX2A6F6SXT4UCL62ZSE1C.uasset'
+[2026.07.18-15.34.03:572][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+[2026.07.18-15.34.03:580][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2
+[2026.07.18-15.34.03:580][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/LYYUJ74G36R96SWX1Y48Z2274D1A844728381626E90FB13A149C2C.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/85/LYYUJ74G36R96SWX1Y48Z2.uasset'
+[2026.07.18-15.34.03:581][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+[2026.07.18-15.34.03:589][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ
+[2026.07.18-15.34.03:589][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ITT14I7RIPFAWOLW027WEZ58322B0E4C9BDB13B384A09468841C16.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/5E/ITT14I7RIPFAWOLW027WEZ.uasset'
+[2026.07.18-15.34.03:590][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+[2026.07.18-15.34.03:598][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1
+[2026.07.18-15.34.03:598][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/IW2N8XM75607JCJRYEL5P19EC7CD734DDBE2B2E32DC09AC705B7E0.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/AM/IW2N8XM75607JCJRYEL5P1.uasset'
+[2026.07.18-15.34.03:599][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+[2026.07.18-15.34.03:608][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q
+[2026.07.18-15.34.03:608][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/VK823AP9UC5PC8XHHP2U6Q7DCC9F504E43E4E9823AF091C62AC73B.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/Y8/VK823AP9UC5PC8XHHP2U6Q.uasset'
+[2026.07.18-15.34.03:609][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+[2026.07.18-15.34.03:616][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY
+[2026.07.18-15.34.03:616][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/7AIFWLMZM6FNZ32SK032TYFE2DCFBD4903D9179630FF894EBD9032.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/7/FL/7AIFWLMZM6FNZ32SK032TY.uasset'
+[2026.07.18-15.34.03:618][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+[2026.07.18-15.34.03:626][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS
+[2026.07.18-15.34.03:626][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ILDZATAJAWX5WLB33M7FQS76B2EBAA4AE3A6918370A3BA5752FD12.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/8/C6/ILDZATAJAWX5WLB33M7FQS.uasset'
+[2026.07.18-15.34.03:628][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+[2026.07.18-15.34.03:638][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4
+[2026.07.18-15.34.03:638][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/Z0TCOW85SPIL4WJ6FSQCO419970C2A46E6A929ED93478823E72412.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/SS/Z0TCOW85SPIL4WJ6FSQCO4.uasset'
+[2026.07.18-15.34.03:639][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+[2026.07.18-15.34.03:648][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O
+[2026.07.18-15.34.03:648][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/H4AXV0G023QP28PQTAOF1OE7D81771444680ED579DFDBAAE0E1F23.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/HH/H4AXV0G023QP28PQTAOF1O.uasset'
+[2026.07.18-15.34.03:649][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+[2026.07.18-15.34.03:658][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2
+[2026.07.18-15.34.03:658][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/IYAAZJT51R8CKODGGF8YC22BC1546C4CD314C779B1D497A6E54B47.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/3/YN/IYAAZJT51R8CKODGGF8YC2.uasset'
+[2026.07.18-15.34.03:659][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+[2026.07.18-15.34.03:668][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS
+[2026.07.18-15.34.03:668][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/F6F3RD6PEOLM8CV7YNVMYSF240A727498B32DA2162F28A5F249D73.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/E/OX/F6F3RD6PEOLM8CV7YNVMYS.uasset'
+[2026.07.18-15.34.03:669][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+[2026.07.18-15.34.03:678][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA
+[2026.07.18-15.34.03:678][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/D5AP58IHU71AU0M2JNWETA32BE80F7401012727E8C6382768E3F18.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/A/VG/D5AP58IHU71AU0M2JNWETA.uasset'
+[2026.07.18-15.34.03:679][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+[2026.07.18-15.34.03:688][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ
+[2026.07.18-15.34.03:688][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/7XH5KOM6VGSWXXG4WJEEWJ7DFF5C8C461B4D0CEC910792E6B2C9D1.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/4/WH/7XH5KOM6VGSWXXG4WJEEWJ.uasset'
+[2026.07.18-15.34.03:689][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+[2026.07.18-15.34.03:699][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00
+[2026.07.18-15.34.03:699][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/RLEWE2Y9S5ZDO8F6ELEJ00886AB07F43E43BF2D77DE6A9203B8E56.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/1/WA/RLEWE2Y9S5ZDO8F6ELEJ00.uasset'
+[2026.07.18-15.34.03:700][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+[2026.07.18-15.34.03:710][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R
+[2026.07.18-15.34.03:710][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/8JJDOIVMLQYT8VXINSJM0R2F93C3A344CFF0E9BA66D39730F86C88.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/B/JV/8JJDOIVMLQYT8VXINSJM0R.uasset'
+[2026.07.18-15.34.03:711][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+[2026.07.18-15.34.03:719][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1
+[2026.07.18-15.34.03:719][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/ZWSO730QU54SJNCOZJ3TA14E1A34DD4EF22B20E884C3BB977C0A30.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/6/C2/ZWSO730QU54SJNCOZJ3TA1.uasset'
+[2026.07.18-15.34.03:720][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+[2026.07.18-15.34.03:729][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84
+[2026.07.18-15.34.03:729][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/0F53A5EQLRS5JNU3C82R8465B0296A43E11B0F6D60DD8C45F5D26F.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset'
+[2026.07.18-15.34.03:730][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+[2026.07.18-15.34.03:740][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8
+[2026.07.18-15.34.03:740][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/1ETCZL36T8LOULTG5FSKJ85C08C41A40CA8DD00797D28749D1E574.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset'
+[2026.07.18-15.34.03:741][505]LogFileHelpers: Saving Package: /Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2026.07.18-15.34.03:750][505]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7
+[2026.07.18-15.34.03:750][505]LogSavePackage: Moving '../../../OutOfBounds/OutOfBounds/Saved/I5IPTC503UZ5480FO15FQ71A5BCF6740BAD3FA627C91A1BC71F2E8.tmp' to '../../../OutOfBounds/OutOfBounds/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset'
+[2026.07.18-15.34.03:754][505]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.49 sec
+[2026.07.18-15.34.03:869][505]LogFileHelpers: Saving map 'NewMap' took 9.842
+[2026.07.18-15.34.03:869][505]Cmd: MAP LOAD FILE="../../../OutOfBounds/OutOfBounds/Content/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.07.18-15.34.03:889][505]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2026.07.18-15.34.03:889][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.07.18-15.34.03:889][505]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/NewMap.NewMap
+[2026.07.18-15.34.03:921][505]LogAudio: Display: Audio Device unregistered from world 'NewMap'.
+[2026.07.18-15.34.03:934][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.07.18-15.34.03:936][505]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.18-15.34.03:944][505]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewMap'.
+[2026.07.18-15.34.03:944][505]LogChaosDD: Creating Chaos Debug Draw Scene for world NewMap
+[2026.07.18-15.34.03:950][505]LogWorldPartition: ULevel::OnLevelLoaded(NewMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2026.07.18-15.34.03:950][505]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.07.18-15.34.03:950][505]LogWorldPartition: UWorldPartition::Initialize : World = /Game/NewMap.NewMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.07.18-15.34.04:108][505]LogWorldPartition: Display: WorldPartition initialize took 157.448 ms (total: 418.796 ms)
+[2026.07.18-15.34.04:192][505]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.07.18-15.34.04:215][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.07.18-15.34.04:219][505]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.07.18-15.34.04:220][505]MapCheck: Vérification de la carte terminée : 0 Erreur(s), 0 Avertissement(s), a pris 0,785ms pour s'exécuter.
+[2026.07.18-15.34.04:302][505]LogContentValidation: Enabled validators:
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_ActionUtility
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/MutableValidation.AssetValidator_CustomizableObjects
+[2026.07.18-15.34.04:303][505]LogContentValidation: 	/Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects
+[2026.07.18-15.34.04:303][505]LogContentValidation: Display: Starting to validate 2 assets (143 associated objects such as actors)
+[2026.07.18-15.34.04:303][505]LogContentValidation: Ressources supplémentaires ajoutées pour validation par 0 validateurs :
+[2026.07.18-15.34.04:304][505]AssetCheck: /Game/NewMap Validation de la ressource
+[2026.07.18-15.34.04:304][505]AssetCheck: /Game/NewMap_HLOD0_Instancing Validation de la ressource
+[2026.07.18-15.34.04:304][505]LogContentValidation: Nombre de ressources validées par 9 validateurs :
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.DirtyFilesChangelistValidator : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.EditorValidator_ActionUtility : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 2
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.EditorValidator_Material : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.PackageFileValidator : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/DataValidation.WorldPartitionChangelistValidator : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/MutableValidation.AssetValidator_CustomizableObjects : 0
+[2026.07.18-15.34.04:304][505]LogContentValidation:   /Script/MutableValidation.AssetValidator_ReferencedCustomizableObjects : 0
+[2026.07.18-15.34.04:535][505]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../OutOfBounds/OutOfBounds/Saved/SourceControl/UncontrolledChangelists.json
+[2026.07.18-15.34.04:563][506]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.07.18-15.34.14:895][103]Cmd: DELETE
+[2026.07.18-15.34.14:895][103]Cmd: ACTOR DELETE
+[2026.07.18-15.34.14:898][103]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.14:932][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2026.07.18-15.34.14:936][103]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.07.18-15.34.17:692][262]Cmd: DELETE
+[2026.07.18-15.34.17:692][262]Cmd: ACTOR DELETE
+[2026.07.18-15.34.17:696][262]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.17:725][262]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.18-15.34.17:728][262]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.07.18-15.34.18:265][291]Cmd: DELETE
+[2026.07.18-15.34.18:265][291]Cmd: ACTOR DELETE
+[2026.07.18-15.34.18:268][291]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.18:299][291]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.07.18-15.34.18:302][291]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.07.18-15.34.18:902][325]Cmd: DELETE
+[2026.07.18-15.34.18:902][325]Cmd: ACTOR DELETE
+[2026.07.18-15.34.18:905][325]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.18:936][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.34.18:939][325]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.07.18-15.34.19:761][371]Cmd: DELETE
+[2026.07.18-15.34.19:761][371]Cmd: ACTOR DELETE
+[2026.07.18-15.34.19:764][371]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.19:795][371]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.34.19:798][371]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.07.18-15.34.20:424][406]Cmd: DELETE
+[2026.07.18-15.34.20:424][406]Cmd: ACTOR DELETE
+[2026.07.18-15.34.20:427][406]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.20:456][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.07.18-15.34.20:459][406]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.07.18-15.34.21:888][488]Cmd: DELETE
+[2026.07.18-15.34.21:888][488]Cmd: ACTOR DELETE
+[2026.07.18-15.34.21:891][488]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.21:921][488]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.18-15.34.21:924][488]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.07.18-15.34.22:458][516]Cmd: DELETE
+[2026.07.18-15.34.22:458][516]Cmd: ACTOR DELETE
+[2026.07.18-15.34.22:460][516]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.22:491][516]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2026.07.18-15.34.22:493][516]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.07.18-15.34.23:040][545]Cmd: DELETE
+[2026.07.18-15.34.23:040][545]Cmd: ACTOR DELETE
+[2026.07.18-15.34.23:043][545]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.23:074][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.34.23:076][545]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.07.18-15.34.23:549][570]Cmd: DELETE
+[2026.07.18-15.34.23:549][570]Cmd: ACTOR DELETE
+[2026.07.18-15.34.23:552][570]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.23:584][570]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.07.18-15.34.23:586][570]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2026.07.18-15.34.24:034][593]Cmd: DELETE
+[2026.07.18-15.34.24:034][593]Cmd: ACTOR DELETE
+[2026.07.18-15.34.24:038][593]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.24:070][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.34.24:073][593]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.07.18-15.34.24:511][616]Cmd: DELETE
+[2026.07.18-15.34.24:511][616]Cmd: ACTOR DELETE
+[2026.07.18-15.34.24:514][616]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.24:544][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2026.07.18-15.34.24:546][616]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.07.18-15.34.25:833][687]Cmd: DELETE
+[2026.07.18-15.34.25:833][687]Cmd: ACTOR DELETE
+[2026.07.18-15.34.25:836][687]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.25:866][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.07.18-15.34.25:869][687]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.07.18-15.34.26:797][740]Cmd: DELETE
+[2026.07.18-15.34.26:797][740]Cmd: ACTOR DELETE
+[2026.07.18-15.34.26:801][740]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.26:832][740]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2026.07.18-15.34.26:835][740]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.07.18-15.34.27:599][782]Cmd: DELETE
+[2026.07.18-15.34.27:599][782]Cmd: ACTOR DELETE
+[2026.07.18-15.34.27:601][782]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.27:630][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.07.18-15.34.27:633][782]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2026.07.18-15.34.28:298][818]Cmd: DELETE
+[2026.07.18-15.34.28:298][818]Cmd: ACTOR DELETE
+[2026.07.18-15.34.28:301][818]LogEditorActor: Deleted Actor: LandscapeStreamingProxy
+[2026.07.18-15.34.28:331][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.07.18-15.34.28:334][818]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2026.07.18-15.36.32:664][664]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1314.918945
+[2026.07.18-15.36.33:664][667]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-15.36.33:664][667]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1315.585693, Update Interval: 318.290955
+[2026.07.18-15.42.15:665][693]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1657.920532
+[2026.07.18-15.42.16:665][696]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-15.42.16:665][697]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1658.587158, Update Interval: 330.191345
+[2026.07.18-15.43.50:735][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.07.18-15.43.50:738][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.030
+[2026.07.18-15.44.13:789][ 48]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Haut-parleurs (Steam Streaming Speakers)'
+[2026.07.18-15.44.13:802][ 48]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.44.13:802][ 48]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.13:826][ 48]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.44.13:827][ 48]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.13:827][ 48]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.44.13:835][ 48]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.44.13:835][ 48]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.13:835][ 48]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.44.14:002][ 48]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}]
+[2026.07.18-15.44.14:002][ 48]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.44.14:002][ 48]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.44.14:008][ 48]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.44.14:011][ 49]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.44.14:016][ 49]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.44.14:016][ 49]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.44.14:017][ 49]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.44.14:334][ 49]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.44.14:635][ 50]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Haut-parleurs (Steam Streaming Microphone)'
+[2026.07.18-15.44.14:647][ 50]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Steam Streaming Microphone), InstanceID=1
+[2026.07.18-15.44.14:647][ 50]LogAudioMixer: Display: Deferring force device swap request to '{0.0.0.00000000}.{b5f28107-709b-48af-ad8d-479e44e1086a}' (reason: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged') until render thread stops.
+[2026.07.18-15.44.14:648][ 50]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Steam Streaming Microphone), InstanceID=1
+[2026.07.18-15.44.14:648][ 50]LogAudioMixer: Display: Deferring force device swap request to '{0.0.0.00000000}.{b5f28107-709b-48af-ad8d-479e44e1086a}' (reason: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged') until render thread stops.
+[2026.07.18-15.44.14:668][ 50]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.17
+[2026.07.18-15.44.14:668][ 50]LogAudioMixer: Display: Replaying deferred device swap to '{0.0.0.00000000}.{b5f28107-709b-48af-ad8d-479e44e1086a}' (reason: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged')
+[2026.07.18-15.44.14:668][ 50]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{b5f28107-709b-48af-ad8d-479e44e1086a}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.14:669][ 50]LogAudioMixer: Display: FAudioMixerWasapi::ResumePlaybackOnNewDevice - device swap requested during previous device swap...not resuming audio
+[2026.07.18-15.44.14:687][ 51]LogAudioEnumeration: Warning: FWindowsMMDeviceCache: Failed to get Format for active device 'Microphone (Steam Streaming Microphone)'
+[2026.07.18-15.44.14:763][ 51]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.44.14:763][ 51]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.14:763][ 51]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.44.14:820][ 51]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.44.14:820][ 51]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.14:820][ 51]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.44.15:002][ 51]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}]
+[2026.07.18-15.44.15:002][ 51]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.44.15:002][ 51]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.44.15:003][ 51]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.44.15:117][ 52]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.44.15:122][ 52]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.44.15:122][ 52]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.44.15:123][ 52]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.44.15:334][ 52]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.44.15:668][ 53]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=121.52
+[2026.07.18-15.44.15:668][ 53]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Realtek(R) Audio)'
+[2026.07.18-15.44.15:668][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.44.15:670][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.44.16:797][ 57]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.44.16:798][ 57]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.16:808][ 57]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.44.16:808][ 57]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.44.16:808][ 57]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.44.17:001][ 57]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}]
+[2026.07.18-15.44.17:002][ 57]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.44.17:002][ 57]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.44.17:007][ 58]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.44.17:008][ 58]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.07.18-15.44.17:009][ 58]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.44.17:013][ 58]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.44.17:013][ 58]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.44.17:014][ 58]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.44.17:335][ 58]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.44.17:668][ 59]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}, Name=Haut-parleurs (Steam Streaming Speakers)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=12.20
+[2026.07.18-15.44.17:668][ 59]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Steam Streaming Speakers)'
+[2026.07.18-15.44.17:668][ 59]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.44.17:671][ 59]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.48.38:340][841]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2040.595825
+[2026.07.18-15.48.39:339][844]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-15.48.39:340][844]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2041.262695, Update Interval: 339.491577
+[2026.07.18-15.51.20:960][329]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.51.20:960][329]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.51.20:968][329]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.51.20:969][329]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.51.20:969][329]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.51.21:004][329]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}]
+[2026.07.18-15.51.21:004][329]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.51.21:004][329]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.51.21:007][329]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.51.21:141][330]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.51.21:148][330]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.51.21:148][330]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.51.21:148][330]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.51.21:338][330]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.51.21:671][331]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=144.10
+[2026.07.18-15.51.21:671][331]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Realtek(R) Audio)'
+[2026.07.18-15.51.21:671][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.51.21:673][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.51.28:477][352]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.51.28:477][352]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.51.28:485][352]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.51.28:485][352]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.51.28:485][352]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.51.28:671][352]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}]
+[2026.07.18-15.51.28:671][352]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.51.28:671][352]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.51.28:676][353]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.51.28:678][353]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.07.18-15.51.28:678][353]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.51.28:681][353]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.51.28:681][353]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.51.28:681][353]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.51.29:004][353]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.51.29:338][354]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}, Name=Haut-parleurs (Steam Streaming Speakers)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=11.03
+[2026.07.18-15.51.29:338][354]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Steam Streaming Speakers)'
+[2026.07.18-15.51.29:338][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.51.29:341][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.52.42:381][574]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.52.42:381][574]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.52.42:392][574]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Realtek(R) Audio), InstanceID=1
+[2026.07.18-15.52.42:392][574]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.52.42:392][574]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.52.42:671][574]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}]
+[2026.07.18-15.52.42:671][574]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.52.42:671][574]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.52.42:679][575]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.52.42:680][575]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.52.42:686][575]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.52.42:686][575]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.52.42:686][575]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.52.43:004][575]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.52.43:338][576]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{cfa2adb0-e3f5-48bd-b186-2f73be7bf7b5}, Name=Haut-parleurs (Realtek(R) Audio)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=15.10
+[2026.07.18-15.52.43:338][576]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Realtek(R) Audio)'
+[2026.07.18-15.52.43:338][576]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.52.43:340][576]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.53.25:307][702]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Console, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.53.25:307][702]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.53.25:320][702]LogAudioMixer: Display: FAudioMixerWasapi: Changing default audio render device to new device: Role=Communications, DeviceName=Haut-parleurs (Steam Streaming Speakers), InstanceID=1
+[2026.07.18-15.53.25:320][702]LogAudioMixer: Display: Attempt to swap audio render device to new device: '{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}', because: 'FAudioMixerWasapi::OnDefaultRenderDeviceChanged', force=1
+[2026.07.18-15.53.25:320][702]LogAudioMixer: Display: FAudioMixerWasapi::InitDeviceSwapContextInternal - DeviceSwapContext in-flight, cancelling and starting a new swap.
+[2026.07.18-15.53.25:339][702]LogAudioMixer: Display: FAudioMixerWasapi::PreDeviceSwap - Starting swap to [{0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}]
+[2026.07.18-15.53.25:339][702]LogAudioMixer: Display: FAudioMixerWasapi::EnqueueAsyncDeviceSwap - enqueuing async device swap
+[2026.07.18-15.53.25:339][702]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - Start. Because=FAudioMixerWasapi::OnDefaultRenderDeviceChanged
+[2026.07.18-15.53.25:345][702]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully shut down previous device manager
+[2026.07.18-15.53.25:347][702]LogAudioMixerWasapi: Warning: InitializeHardware failed SetClientProperties AUDCLNT_E_RAW_MODE_UNSUPPORTED
+[2026.07.18-15.53.25:348][702]LogAudioMixerWasapi: FAudioMixerWasapiRenderStream::InitializeHardware DefaultDevicePeriod: 480 requesting buffer size: 1920
+[2026.07.18-15.53.25:366][703]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware audio mixer requested num channels: 2, Wasapi render stream hardware supports num channels: 2
+[2026.07.18-15.53.25:366][703]LogAudioMixerWasapi: Display: FAudioMixerWasapiRenderStream::InitializeHardware succeeded with sample rate: 48000, buffer period: 1024
+[2026.07.18-15.53.25:368][703]LogAudioMixer: Display: FAudioMixerWasapi::PerformDeviceSwap - successfully completed device swap
+[2026.07.18-15.53.25:672][703]LogAudioMixer: Display: SignalStopGeneratingAudio() called, InstanceID=1
+[2026.07.18-15.53.26:006][704]LogAudioMixer: Display: FAudioMixerWasapi::PostDeviceSwap - successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{451aaed1-8c22-4569-bb3b-1c45b74862e8}, Name=Haut-parleurs (Steam Streaming Speakers)), Reason=FAudioMixerWasapi::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=28.53
+[2026.07.18-15.53.26:006][704]LogAudioMixer: Display: FAudioMixerPlatformSwappable::ResumePlaybackOnNewDevice - resuming audio on new device: 'Haut-parleurs (Steam Streaming Speakers)'
+[2026.07.18-15.53.26:006][704]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2026.07.18-15.53.26:009][704]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2026.07.18-15.53.51:399][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.07.18-15.53.51:401][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.032

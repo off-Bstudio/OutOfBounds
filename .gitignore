@@ -10,3 +10,6 @@ OutOfBounds/Intermediate/Build/XmlConfigCache.bin
 *.bin
 *.log
 *.bin
+OutOfBounds/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+OutOfBounds/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0.ref
+OutOfBounds/Intermediate/CachedAssetRegistryDiscovery.bin

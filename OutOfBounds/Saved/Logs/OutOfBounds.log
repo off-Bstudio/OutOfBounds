@@ -2000,27 +2000,106 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.07.18-15.14.41:689][  1]LogAssetRegistry: AssetRegistryGather time 6.1083s: AssetDataDiscovery 0.0113s, AssetDataGather 6.0298s, StoreResults 0.0672s. Wall time 6.7240s.
 	NumCachedDirectories 1948. NumUncachedDirectories 32. NumCachedFiles 0. NumUncachedFiles 9072.
 	BackgroundTickInterruptions 0.
-[2026.07.18-15.14.41:708][  1]LogAssetRegistry: Display: Starting OnFilesLoaded.Broadcast
-[2026.07.18-15.14.41:718][  1]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
-[2026.07.18-15.14.41:729][  1]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
-[2026.07.18-15.14.41:735][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
-[2026.07.18-15.14.41:749][  1]LogAssetRegistry: Display: Completed OnFilesLoaded.Broadcast: 0.041s
-[2026.07.18-15.14.41:749][  1]LogSourceControl: Uncontrolled asset discovery started...
-[2026.07.18-15.14.41:873][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 4.060025
-[2026.07.18-15.14.41:873][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
-[2026.07.18-15.14.41:874][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4.128326
-[2026.07.18-15.14.42:017][  4]LogSourceControl: Uncontrolled asset discovery finished in 0.268178 seconds (Found 9048 uncontrolled assets)
-[2026.07.18-15.14.42:515][  5]LogAssetRegistry: Display: Asset registry cache written as 118.8 MiB to ../../../OutOfBounds/OutOfBounds/Intermediate/CachedAssetRegistry/CachedAssetRegistry_*.ref
-[2026.07.18-15.14.42:522][  5]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
-[2026.07.18-15.14.42:522][  5]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
-[2026.07.18-15.14.42:899][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
-[2026.07.18-15.14.43:557][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 5.477137
-[2026.07.18-15.14.43:558][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1846935968
-[2026.07.18-15.14.43:558][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5.477137, Update Interval: 321.389191
-[2026.07.18-15.14.52:058][131]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' with subface index 0 in Game thread.
-[2026.07.18-15.14.52:058][131]LogSlate: Display: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K) on Game thread.
-[2026.07.18-15.14.52:058][131]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface 0 in Game thread.
-[2026.07.18-15.14.52:058][131]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface index 0 successfully added to font face map in Game thread.
-[2026.07.18-15.14.59:093][462]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
-[2026.07.18-15.14.59:116][462]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
-[2026.07.18-15.15.00:409][539]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.07.18-14.45.18:620][261]LogAssetRegistry: Display: Starting OnFilesLoaded.Broadcast
+[2026.07.18-14.45.18:629][261]LogPlacementMode: Display: The Asset Registry is done with its initial scan, the list of placeable classes has been updated.
+[2026.07.18-14.45.18:639][261]LogStreaming: Display: FlushAsyncLoading(502): 1 QueuedPackages, 0 AsyncPackages
+[2026.07.18-14.45.18:643][261]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2026.07.18-14.45.18:656][261]LogAssetRegistry: Display: Completed OnFilesLoaded.Broadcast: 0.036s
+[2026.07.18-14.45.18:656][261]LogSourceControl: Uncontrolled asset discovery started...
+[2026.07.18-14.45.19:057][285]LogSourceControl: Uncontrolled asset discovery finished in 0.402132 seconds (Found 9048 uncontrolled assets)
+[2026.07.18-14.45.19:583][310]LogAssetRegistry: Display: Asset registry cache written as 118.8 MiB to ../../../OutOfBounds/OutOfBounds/Intermediate/CachedAssetRegistry/CachedAssetRegistry_*.ref
+[2026.07.18-14.45.19:596][311]LogAssetRegistry: Display: CleanupOrphanedCacheFiles (PostWrite): 1 .ref files found, 1 referenced binaries
+[2026.07.18-14.45.19:597][311]LogAssetRegistry: Display: CleanupOrphanedCacheFiles: 1 total binaries, 1 referenced (kept), 0 old-style pre-migration (kept), 0 orphans deleted, 0 orphans locked (kept)
+[2026.07.18-14.45.32:974][504]LogSlate: Display: Synchronously lazy loading font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' with subface index 0 in Game thread.
+[2026.07.18-14.45.32:974][504]LogSlate: Display: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K) on Game thread.
+[2026.07.18-14.45.32:974][504]LogSlate: Display: Freetype font face in memory successfully created with synchronously loaded raw font file '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface 0 in Game thread.
+[2026.07.18-14.45.32:974][504]LogSlate: Display: Font face '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' subface index 0 successfully added to font face map in Game thread.
+[2026.07.18-14.47.34:625][ 51]LogDerivedDataCache: C:/Users/Tigam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.073 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15698 files in 15731 folders with total size 318 MiB.
+[2026.07.18-14.50.40:820][699]Running C:/Program Files/Epic Games/UE_5.8/Engine/Build/BatchFiles/Build.bat  -projectfiles -project="C:/Program Files/Epic Games/UE_5.8/OutOfBounds/OutOfBounds/OutOfBounds.uproject" -game -rocket -progress
+[2026.07.18-14.50.40:928][699]Using bundled DotNet SDK version: 10.0 win-x64
+[2026.07.18-14.50.40:928][699]Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" -projectfiles -project="C:/Program Files/Epic Games/UE_5.8/OutOfBounds/OutOfBounds/OutOfBounds.uproject" -game -rocket -progress
+[2026.07.18-14.50.41:431][699]Log file: C:\Users\Tigam\AppData\Local\UnrealBuildTool\Log_GPF.txt
+[2026.07.18-14.50.41:531][699]
+[2026.07.18-14.50.41:531][699]Generating VisualStudio project files:
+[2026.07.18-14.50.41:531][699]Discovering modules, targets and source code for project...
+[2026.07.18-14.50.43:542][699]Writing 'C:\Program Files\Epic Games\UE_5.8\OutOfBounds\OutOfBounds\Automation_OutOfBounds.sln'...
+[2026.07.18-14.50.43:542][699]Writing 'C:\Program Files\Epic Games\UE_5.8\OutOfBounds\OutOfBounds\Automation_OutOfBounds.slnx'...
+[2026.07.18-14.50.43:542][699]Writing automation project files took 0.14s
+[2026.07.18-14.50.43:542][699]Adding projects for all targets...
+[2026.07.18-14.50.45:855][699]Adding projects for all targets took 2.22s
+[2026.07.18-14.50.45:855][699]Adding projects for all game projects took 0.00s
+[2026.07.18-14.50.45:956][699]Adding projects for all modules took 0.07s
+[2026.07.18-14.50.46:257][699]Compiling Rules Assemblies
+[2026.07.18-14.50.46:258][699]Compiling Rules Assemblies 100%
+[2026.07.18-14.50.46:258][699]Creating Build Targets
+[2026.07.18-14.50.46:762][699]Creating Build Targets 100%
+[2026.07.18-14.50.46:762][699]Binding IntelliSense data...
+[2026.07.18-14.50.46:762][699]Creating Build Targets took 0.53s
+[2026.07.18-14.50.51:689][699]Binding IntelliSense data... 100%
+[2026.07.18-14.50.51:689][699]Binding IntelliSense data took 4.86s
+[2026.07.18-14.50.51:689][699]Writing project files...
+[2026.07.18-14.50.52:697][699]Writing 'C:\Program Files\Epic Games\UE_5.8\OutOfBounds\OutOfBounds\OutOfBounds.sln'...
+[2026.07.18-14.50.52:697][699]Writing 'C:\Program Files\Epic Games\UE_5.8\OutOfBounds\OutOfBounds\OutOfBounds.slnx'...
+[2026.07.18-14.50.52:697][699]Writing project files... 100%
+[2026.07.18-14.50.52:697][699]Writing solution file took 0.05s
+[2026.07.18-14.50.52:799][699]Writing project files took 1.10s
+[2026.07.18-14.50.52:799][699]Compiling Rules Assemblies
+[2026.07.18-14.50.52:799][699]
+[2026.07.18-14.50.52:799][699]Generating QueryTargets data for editor...
+[2026.07.18-14.50.52:799][699]Compiling Rules Assemblies 100%
+[2026.07.18-14.50.52:799][699]Writing Query Target Info
+[2026.07.18-14.50.52:799][699]Writing Query Target Info 100%
+[2026.07.18-14.50.52:799][699]Generating QueryTargets data for editor took 0.02s
+[2026.07.18-14.50.52:799][699]
+[2026.07.18-14.50.52:799][699]Result: Succeeded
+[2026.07.18-14.50.52:799][699]Total execution time: 11.73 seconds
+[2026.07.18-14.50.52:799][699]Trace written to file C:\Users\Tigam\AppData\Local\UnrealBuildTool\Trace.uba with size 132.4kb
+[2026.07.18-14.50.53:122][700]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 343.284027
+[2026.07.18-14.50.54:120][703]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-14.50.54:120][704]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 343.949951, Update Interval: 319.010590
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: ================================================
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Total job queries 306, among them cache hits 6 (1.96%), DDC hits 262 (85.62%), Duplicates 24 (7.84%)
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Tracking 276 distinct input hashes that result in 196 distinct outputs (71.01%)
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: RAM used: 2,87 MiB of 1,60 GiB budget. Usage: 0.17%
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Shaders Compiled: 14
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100%)
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Average time worker was idle: 0.39 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Time job spent in pending queue: average 0.08 s, longest 0.80 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.26 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Job life time (pending + execution): average 0.89 s, max 1.29
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Shader code size: total 108,938 KiB, numShaders 14, average 7,781 KiB, min 2,98 KiB, max 14,211 KiB
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.96 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Average processing rate: 7.15 jobs/sec
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Total thread time: 3,046 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Total thread preprocess time: 4,807 s
+[2026.07.18-14.54.13:332][347]LogShaderCompilers: Display: Percentage time preprocessing: 157.79%
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Effective parallelization: 1.56 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.129734
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.53 sec, max 0.55 sec, min 0.51 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.22 sec, max 0.23 sec, min 0.22 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.13 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 34.78% of total time (compiled    2 times, average 0.53 sec, max 0.55 sec, min 0.51 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.01% of total time (compiled    3 times, average 0.22 sec, max 0.23 sec, min 0.22 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 14.34% of total time (compiled    3 times, average 0.15 sec, max 0.15 sec, min 0.14 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.12% of total time (compiled    2 times, average 0.14 sec, max 0.14 sec, min 0.13 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display:                                                  FHitProxyPS - 8.87% of total time (compiled    2 times, average 0.14 sec, max 0.15 sec, min 0.12 sec)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: === Material stats ===
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Materials Translated:    149
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Material Translation Only: 0.04 s (43%)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: Material Cache Hits: 8 (5%)
+[2026.07.18-14.54.13:333][347]LogShaderCompilers: Display: ================================================
+[2026.07.18-14.56.15:342][713]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 665.505676
+[2026.07.18-14.56.16:344][716]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-14.56.16:344][716]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 666.172363, Update Interval: 342.739960
+[2026.07.18-15.02.03:684][758]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.846130
+[2026.07.18-15.02.04:683][761]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.07.18-15.02.04:683][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1014.511902, Update Interval: 350.421448
